@@ -1,0 +1,12 @@
+{
+  "name": "livetalk",
+  "version": "1.0.0",
+  "description": "**LiveTalk** is a lightweight real-time chat app built with **Node.js** and **raw WebSockets**. It allows an admin to manage chat rooms while users can join, message, and upvote conversations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
